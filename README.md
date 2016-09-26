@@ -1,1 +1,1 @@
-# cs3240-labdemo hello&helper files
+# cs3240-labdemo hello.py and helper.py
